@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Welcome to MkDocs - modification direct dans docs/index.md
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
